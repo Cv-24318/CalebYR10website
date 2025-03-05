@@ -68,6 +68,11 @@ img {
 }
 
 /* Styling for the topic card titles */
+
+.topic-card-text-container {
+    margin-top: 10px; 
+}
+
 .topic-card-text{
     font-size: 1.5em;
     margin-bottom: 0.5em;
