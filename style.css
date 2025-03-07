@@ -77,6 +77,7 @@ img {
 .topic-card-text{
     font-size: 1.5em;
     margin-bottom: 0.5em;
+    width: 100%;
     /* center align text */
     text-align: center;
 }
